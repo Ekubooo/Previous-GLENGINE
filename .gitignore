@@ -1,10 +1,13 @@
 .vs
-.vscode
 .xmake
 .cache
+*.pdb
+*.exe
+*.ilk
+learnMoreGL0[12]
+originalModel
 
 # build
 build
 out
-compile_commands.json
 binary.ppm
