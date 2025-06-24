@@ -4,9 +4,10 @@
 *.pdb
 *.exe
 *.ilk
-learnMoreGL0[12]
+learnMoreGL02
 originalModel
 example
+assets/
 # build
 build
 out
